@@ -43,9 +43,9 @@
     <string name="msg_searching">"חיפוש תחנות חזקות כדי ליצור רשימה קבועה מראש"</string>
     <string name="msg_searching_title">"Presets הבחירה האוטומטית"</string>
     <string name="msg_weak_searching">"מחפש תדרים לשידור"</string>
-    <string name="msg_noantenna">"אנא לחבר אוזניות לשימוש רדיו FM"</string>
-    <string name="msg_headsetpluggedin">"נתק את כל אוזניות לשימוש FM Tx"</string>
-    <string name="msg_callactive">"FM Tx אינו נתמך כאשר יש שיחה קולית פעילה"</string>
+    <string name="msg_noantenna">"נא לחבר אוזניות כדי להשתמש ברדיו FM"</string>
+    <string name="msg_headsetpluggedin">"נתק את האוזניות כדי להשתמש FM Tx"</string>
+    <string name="msg_headsetpluggedin">"נתק את האוזניות כדי להשתמש בFM Tx"</string>
     <string name="dialog_sleep_title">"בחר כיבוי אוטומטי לזמן שינה"</string>
     <string name="presetlist_add_new">"הוסף רשימה"</string>
     <string name="dialog_presetlist_title">"רשימות מוגדרות מראש"</string>
@@ -106,7 +106,7 @@
     <string name="no_storage">"טען כרטיס SD לפני התחלת הקלטה"</string>
     <string name="preparing_sd">"מכין כרטיס SD"</string>
     <string name="access_sd_fail">"לא יכול לגשת לכרטיס SD."</string>
-    <string name="spaceIsLow_content">"לאחסון כרטיס SD שלך הולך ואוזל המקום. לשנות את הגדרת האיכות או מחק חלק מהתמונות או קבצים אחרים."</string>
+    <string name="spaceIsLow_content">"אחסון כרטיס SD שלך הולך ואוזל המקום. שנה את הגדרת האיכות או מחק חלק מהתמונות או קבצים אחרים."</string>
     <string name="FMRecording_reach_size_limit">"הגעת לגבול של הגודל"</string>
     <string name="delete_station_title">"מחק"</string>
     <string name="find_af_station">"מצא"</string>
